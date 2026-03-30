@@ -1,6 +1,6 @@
 .hero{
-     
-
+     justify-content: center;
+     padding: 10px 80px;
     align-items: center;
 }
 .logo{
@@ -96,5 +96,149 @@ width: 648px;
   display: flex;
   justify-content: space-around;
   align-items: center;
+
+}
+
+.btn1{
+    background-color: #A53DFF;
+    color: white;
+    height: 48px;
+    width: 132px;
+    border: none;
+    border-radius: 4px;
+
+}
+.btn2{
+ background: transparent;
+ color: #A53DFF;
+ border-color: #A53DFF;
+ width: 190px;
+ height: 48px;
+ align-content: center;
+ border-radius: 4px;
+
+
+}
+
+.button-dgn{
+  display: flex;
+  gap: 8px;
+
+}
+
+.work{
+ display: flex;
+justify-content: space-between;
+ gap: 8px;
+ align-items: center;
+
+}
+.box-d{
+    display: flex;
+    gap: 10px   ;
+}
+
+.wdiv2{
+   padding-top: 40px;
+
+}
+
+.smlbox{
+ align-items: center;
+box-shadow: 7px 7px 7px #888888;
+   padding: 20px 40px;
+
+}
+
+.prot{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+}
+.prot2{
+
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.protfoli{
+  text-align: center;
+
+}
+.more-btn{
+ background-color: #A53DFF;
+color: white;
+width: 149px;
+height: 48px;
+margin-top: 10px;
+border: none;
+border-radius: 4px;
+}
+
+.let-btn{
+     background-color: #A53DFF;
+color: white;
+width: 240px;
+height: 48px;
+margin-top: 10px;
+border: none;
+border-radius: 4px;
+
+}
+
+.do-project{
+   text-align: center;
+   background-color: #132238;
+   color: white;
+   padding-top: 50px;
+   margin-top: 100px;
+}
+
+.blog{
+    display: flex;
+    gap: 10px;
+    text-align: center;
+}
+
+.big-blog{
+ text-align: center;
+
+}
+
+.hello-2{
+    background-color: #A53DFF;
+color: white;
+width: 149px;
+height: 48px;
+margin-top: 10px;
+border: none;
+border-radius: 4px;
+
+}
+.what{
+ display: flex;
+ align-items: center;
+}
+
+.exp{
+ box-shadow: 5px 5px 2px #888888;
+ padding: 20px 40px;
+  border-radius: 4px;
+ 
+
+}
+
+.h-client{
+    display: flex;
+}
+.Happy{
+    text-align: center;
+    padding: 50px;
+}
+
+.tasty{
+ text-align: center;
 
 }
