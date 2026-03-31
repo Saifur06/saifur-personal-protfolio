@@ -1,0 +1,425 @@
+.hero{
+     justify-content: center;
+     margin-left:160px;
+    align-items: center;
+    margin-right: 310px;
+}
+.logo{
+ display: flex;
+ justify-content: space-between;
+ gap: 7px;
+ align-items: center;
+
+
+}
+
+.bio{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+
+
+}
+.nav-section{
+ display: flex;
+ justify-content: space-between;
+ gap: 10px;
+ align-items: center;
+
+
+}
+.button{
+    background-color: #A53DFF;
+    width: 111px;
+    height: 48px;
+    color: white;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+}
+.About{
+    display: flex;
+    margin-left:95px;
+    align-items: center;
+
+
+}
+
+.experience{
+    display: flex;
+    gap: 15px;
+      padding: 10px 80px;
+    width: 648px;
+    height: 106px;
+    border-radius: 6px;
+}
+
+.hello-text{
+ padding: 80px;
+ 
+
+
+}
+
+.para{
+width: 648px;
+
+
+}
+.reo{
+ background-color: #EDD8FF80;
+ justify-content: center;
+ padding: 20px 40px;
+ display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  width: 200px;
+  height: 72px;
+  
+}
+
+.btn1{
+ width: 78px;
+ height: 24px;
+ background-color: #A53DFF;
+ color: white;
+ border: none;
+ border-radius: 4px;
+ font-weight: 600;
+ 
+}
+
+.img1{
+    box-shadow: lawngreen;
+}
+
+.Professional{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-left:40px;
+  width: 1320px;
+  height: 728px;
+  gap: 5px;
+}
+
+.pro-text{
+ width: 536px;
+ height: 348px;
+
+}
+.btn1{
+    background-color: #A53DFF;
+    color: white;
+    height: 48px;
+    width: 132px;
+    border: none;
+    border-radius: 4px;
+
+}
+.btn2{
+ background: transparent;
+ color: #A53DFF;
+ border-color: #A53DFF;
+ width: 190px;
+ height: 48px;
+ 
+ border-radius: 4px;
+ justify-content: center;
+ align-items: center;
+ gap: 10px;
+ display: flex;
+ font-weight: bold;
+
+}
+
+.button-dgn{
+  display: flex;
+  gap: 8px;
+
+}
+
+.work{
+ display: flex;
+justify-content: space-between;
+ gap: 8px;
+ align-items: center;
+ margin-left:120px;
+ width: 1320px;
+ height: 600px;
+}
+.box-d{
+    display: flex;
+    gap: 10px   ;
+}
+
+.wdiv2{
+   padding-top: 40px;
+
+}
+
+.smlbox{
+ align-items: center;
+box-shadow: 7px 7px 7px #888888;
+   padding: 20px 40px;
+
+}
+
+.prot{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+}
+.prot2{
+
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.protfoli{
+  text-align: center;
+  margin-left:120px;
+}
+.more-btn{
+ background-color: #A53DFF;
+color: white;
+width: 149px;
+height: 48px;
+margin-top: 10px;
+border: none;
+border-radius: 4px;
+}
+
+.let-btn{
+     background-color: #A53DFF;
+color: white;
+width: 240px;
+height: 48px;
+margin-top: 10px;
+border: none;
+border-radius: 4px;
+
+}
+
+.do-project{
+   text-align: center;
+   background-color: #132238;
+   color: white;
+   padding-top: 50px;
+   margin-top: 100px;
+   padding-bottom: 50px;
+}
+
+.blog{
+    display: flex;
+    gap: 10px;
+    text-align: center;
+    margin-left:120px;
+}
+
+.big-blog{
+ text-align: center;
+
+}
+
+.hello-2{
+    background-color: #A53DFF;
+color: white;
+width: 149px;
+height: 48px;
+margin-top: 10px;
+border: none;
+border-radius: 4px;
+
+}
+.what{
+ display: flex;
+ align-items: center;
+ margin-left:120px;
+ width: 1320px;
+ height: 650px;
+ justify-content: space-between;
+}
+
+.uxi{
+box-shadow: 5px 5px 5px #888888;
+ padding: 20px 40px;
+  border-radius: 4px;
+  border-left: 5px solid #A53DFF;
+  
+
+}
+.exp{
+ box-shadow: 5px 5px 5px #888888;
+ padding: 20px 40px;
+  border-radius: 4px;
+ 
+
+}
+
+.h-client{
+    display: flex;
+    justify-content: center;
+    width: 1320px;
+    height: 200px;
+}
+
+.client-text{
+ width: 577px;
+ height: 128px;
+margin-left: 300px;
+
+}
+.Happy{
+    text-align: center;
+    padding: 50px;
+    margin-left:40px;
+}
+
+.tasty{
+ text-align: center;
+ width: 872px;
+ height: 376px;
+margin-left: 180px;
+
+
+}
+
+
+
+
+.discuss{
+ display: flex;
+ justify-content: space-between;
+ text-align: center;
+ width: 1050px;
+ height: 350px;
+ margin-left:120px;
+ gap: 80px;
+ 
+}
+
+.contacts{
+    gap: 10px;
+}
+
+.text{
+    display: flex;
+    flex-direction: column;
+   
+   
+}
+
+.text p {
+  margin: 0;
+} 
+
+.text h5 {
+  margin: 0;
+}
+
+.project-div{
+  width: 481px;
+  height: 540px;
+
+
+
+}
+.info {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  margin-bottom: 50px;
+  
+}
+
+
+
+input{
+    border: none;
+  border-bottom: 2px solid gray;
+  outline: none;
+  width: 100%;
+  padding: 10px 5px;
+
+
+}
+
+input:focus {
+  border-bottom: 2px solid #A53DFF;
+}
+   
+.budgct{
+    display: flex;
+  gap: 20px;
+}
+
+.submit-btn{
+  width: 57px;
+  height: 24px;
+  background-color: #A53DFF;
+  color: white;
+}
+
+.frm-div{
+ margin-top: 50px;
+ width: 560px;
+ height: 492px;
+
+}
+.sub{
+  margin-top: 50px;
+  
+
+}
+    
+.submit-btn{
+    background-color: #A53DFF;
+   color: white;
+   width: 149px;
+   height: 48px;
+   display: flex;
+  align-items: center;   /* vertically center */
+  justify-content: center;
+  gap: 8px;              /* text আর icon এর মাঝে gap */
+  
+  color: white;
+  border: none;
+  
+  border-radius: 6px;
+  cursor: pointer;
+
+}
+
+.social{
+  display: flex ;
+ justify-content: left;
+
+}
+
+.foot{
+  margin-top: 100px;
+}
+.srm-logo {
+  display: flex;
+  align-items: center; /* vertical alignment */
+  gap: 8px; 
+}
+.footer-div{
+ display: flex;
+ gap: 370px;
+ background-color: #132238;
+ color: white;
+ justify-content: center;
+ text-align: center;
+padding-top: 100px;
+padding-bottom: 50px;
+}
+.f-manue{
+  display: flex;
+  gap: 10px;
+}
